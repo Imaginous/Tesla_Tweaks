@@ -37,7 +37,7 @@ Please note that this is a hobby project and the information is for hobbiests ou
 - Some glue
 - Some double side (automotive grade) tape
 - Optional glossy or matte clear varnish spray to give it a deeper black look after sanding.
-- 3D Models can be found under releases
+- [3D Models can be found under releases](https://github.com/Imaginous/Tesla_Tweaks/releases/tag/V1.0)
 <p float="left">
 <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/94788050-41c8-48dd-b289-8a11b72e5781.jpg" alt="Parts" width="500"/>
 </p>
@@ -89,7 +89,7 @@ Please note that this is a hobby project and the information is for hobbiests ou
 - Sandingpaper to smoothen the 3D print
 - A 3D printer, I use a Prusa MK2
 - ASA black filament (for it's durability, high temperature resistance and UV stability)
-- 3D Models can be found under releases
+- [3D Models can be found under releases](https://github.com/Imaginous/Tesla_Tweaks/releases/tag/V1.1)
 - Optional glossy or matte clear varnish spray to give it a deeper black look after sanding.
 <p float="left">
 <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/9869fbb8-42f9-4266-9fad-305c0f75bd60.jpg" alt="Parts" width="500"/>
