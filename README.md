@@ -1,5 +1,7 @@
 # Tesla Tweaks
-Tweaks and customizations I made for my Tesla Model 3 Highland
+Here I will keep you updated with tweaks and customizations I made for my Tesla Model 3 Highland.
+- [Tesla Model 3 turn signal stalk](https://github.com/Imaginous/Tesla_Tweaks#tesla-model-3-turn-signal-stalk)
+- [Tesla Paddles (Flippers)](https://github.com/Imaginous/Tesla_Tweaks#tesla-paddles-flippers)
 
 ## LEGAL NOTICE
 #### !!! USE ANY INFORMATION IN THIS REPOSITORY AT YOUR OWN RISK
@@ -79,7 +81,10 @@ Luckily we can use the [Enhauto](https://enhauto.com/) *Commander* and the *S3XY
 Using their buttons I created a 3D model af a paddle (left and right) integrating 1 of their buttons in each.<br><br>
 **Note:** *I'm printing the second one at the moment and when both are installed I will take some pictures how it looks in my car.*
 <p float="left">
+  <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/67b6c010-db35-4515-a3ba-c06ce17f56ae.jpg" alt="Flipper" width="500"/>
+  <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/be10eba3-85d5-4664-b2e3-1eb1131d143b.jpg" alt="Flippers" width="500"/>
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/09ff4d2e-52d2-4f54-872d-5877d8f11998.jpg" alt="Parts" width="500"/>
+  <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/f9cc2bb9-db23-4c28-aec0-0f94570bf3b0.jpg" alt="Parts" width="500"/>
 </p>
 Please note that this is a hobby project and the information is for hobbiests out there who want make their own stalk. You have to be creative to buildt it.
 
@@ -105,6 +110,10 @@ Also make sure you have installed the *Commander* and have tested the *S3XY-butt
 - Add a piece of double sided tape to the battery compartment.
 - Place the *S3XY-button* in the paddle by lifting it a bit, note the notch in the print and PCB.
 - Add double sided tape to the bottom of the paddle to stick it to the steering wheel, the extentions of the paddle are designed to point down.
-  
+<p float="left">
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/4a4699cf-10db-4425-a159-e2d3a56c0640.jpg" alt="S3XY-Button PCB inserted" width="500"/>
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/0e7b22dc-d9e3-4078-b50e-8d666e0bc5a7.jpg" alt="Double sided tape" width="500"/>
+</p>
+
 **Note:** you can insert a paperclip into the small holes on top of the paddle to push the *CR2032* battery out when it needs replacing. So you don't have to remove the PCB.<br>
 As I said before, it's a hobby project and needs some tweaking on your side, but it works and was fun to create.
