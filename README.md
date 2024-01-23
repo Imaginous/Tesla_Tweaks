@@ -8,34 +8,34 @@ Here I will keep you updated with tweaks and customizations I made for my Tesla 
 #### !!! I do not accept any liability.
 
 # Tesla referral link and donations
-Are you planning to testdrive or buy a Tesla, use my [**referral link**](https://ts.la/michel701019) to get a discount and sponsor me with Tesla points I can use to charge my car with.<br>
-If you appriciate the work I do you're welcome to make a donation via [**PayPal**](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+my+Tesla+tweaks+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR).
+Are you planning to test-drive or buy a Tesla, use my [**referral link**](https://ts.la/michel701019) to get a discount and sponsor me with Tesla points I can use to charge my car with.<br>
+If you appreciate the work I do you're welcome to make a donation via [**PayPal**](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+my+Tesla+tweaks+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR).
 
 # Tesla Model 3 turn signal stalk
 ### The problem...
 The new stalkless design is futuristic and works great. No problems with shifting gears, no problems to turn left or right.
-But as soon as you're living in Europe with round-a-bouts everywhere. Especially those shared with cyclists. It's confusing to signal you're leaving the round-a-bout. You have to look at the steeringwheel and use *thought* to press the correct button.
+But as soon as you're living in Europe with round-a-bouts everywhere. Especially those shared with cyclists. It's confusing to signal you're leaving the round-a-bout. You have to look at the steering wheel and use *thought* to press the correct button.
 In the mean time you're about to run over a cyclist because you looked at the steering wheel.
 ### The "solution"
-Luckily [Enhauto](https://enhauto.com/) introduced the *Commander* and the *S3XY-buttons*. With these buttons you can automate many actions via wireless buttons. For more informatiom visit their [website](https://enhauto.com/).<br>
-Using their buttons I created a 3D model af a turnsignal stalk integrating 2 of their buttons.<br>
+Luckily [Enhauto](https://enhauto.com/) introduced the *Commander* and the *S3XY-buttons*. With these buttons you can automate many actions via wireless buttons. For more information visit their [website](https://enhauto.com/).<br>
+Using their buttons I created a 3D model of a turn signal stalk integrating 2 of their buttons.<br>
 <p float="left">
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/36823707-1ae9-440f-bd2b-6429541be4a5.jpg" alt="Parts" width="500"/>
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/3f14277e-0e8f-49e8-8c36-292072cc2b42.jpg" alt="Parts" width="500"/>
 </p>
-Please note that this is a hobby project and the information is for hobbiests out there who want make their own stalk. You have to be creative to buildt it.
+Please note that this is a hobby project and the information is for hobbyists out there who want make their own stalk. You have to be creative to build it.
 
-## Partslist:
+## Parts list:
 - Commander + 2x S3XY buttons - [Link](https://enhauto.com/product/four-s3xy-buttons-gen2)
-- 3x Small ballbearings (6x3mm - hole 2mm) - [Link](https://nl.aliexpress.com/item/1005005167956088.html)
+- 3x Small ball bearings (6x3mm - hole 2mm) - [Link](https://nl.aliexpress.com/item/1005005167956088.html)
 - 2x Small push button switches - [Link](https://nl.aliexpress.com/item/1005002571813750.html)
 - 8x Small round magnets (4x2mm) to hold the top cover - [Link](https://nl.aliexpress.com/item/1005005282318653.html)
 - Some pieces of wire to solder the buttons to the S3XY-button PCB
 - 2mm bolt and nut
 - Springs from a pen
-- Sandingpaper to smoothen the 3D print
+- Sanding paper to smoothen the 3D print
 - A 3D printer, I use a Prusa MK2
-- ASA black filament (for it's durability, high temperature resistance and UV stability)
+- ASA black filament (for its durability, high temperature resistance and UV stability)
 - Some glue
 - Some double side (automotive grade) tape
 - Optional glossy or matte clear varnish spray to give it a deeper black look after sanding.
@@ -77,8 +77,8 @@ When stuck to the back of the steering wheel they are out of sight, but not so e
 I saw some complicated designs for paddles on sites like Thingiverse, but I thought it should be easier. So I designed minimalistic paddles which contain the PCB of a *S3XY-Button* (Gen1) without modifications. All you need is to 3D print it and stick the PCB inside with a bit of (automotive) foam double sided tape.
 
 ### The "solution"
-Luckily we can use the [Enhauto](https://enhauto.com/) *Commander* and the *S3XY-buttons*. With these buttons you can automate many actions via wireless buttons. For more informatiom visit their [website](https://enhauto.com/).<br>
-Using their buttons I created a 3D model af a paddle (left and right) integrating 1 of their buttons in each.<br><br>
+Luckily we can use the [Enhauto](https://enhauto.com/) *Commander* and the *S3XY-buttons*. With these buttons you can automate many actions via wireless buttons. For more information visit their [website](https://enhauto.com/).<br>
+Using their buttons I created a 3D model of a paddle (left and right) integrating 1 of their buttons in each.<br><br>
 **Note:** *I'm printing the second one at the moment and when both are installed I will take some pictures how it looks in my car.*
 <p float="left">
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/67b6c010-db35-4515-a3ba-c06ce17f56ae.jpg" alt="Flipper" width="500"/>
@@ -86,14 +86,14 @@ Using their buttons I created a 3D model af a paddle (left and right) integratin
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/09ff4d2e-52d2-4f54-872d-5877d8f11998.jpg" alt="Parts" width="500"/>
   <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/f9cc2bb9-db23-4c28-aec0-0f94570bf3b0.jpg" alt="Parts" width="500"/>
 </p>
-Please note that this is a hobby project and the information is for hobbiests out there who want make their own stalk. You have to be creative to buildt it.
+Please note that this is a hobby project and the information is for hobbyists out there who want make their own stalk. You have to be creative to build it.
 
-## Partslist:
+## Parts list:
 - Commander + 2x S3XY buttons - [Link](https://enhauto.com/product/four-s3xy-buttons-gen2)
 - Double sided foam tape (automotive grade, black)
-- Sandingpaper to smoothen the 3D print
+- Sanding paper to smoothen the 3D print
 - A 3D printer, I use a Prusa MK2
-- ASA black filament (for it's durability, high temperature resistance and UV stability)
+- ASA black filament (for its durability, high temperature resistance and UV stability)
 - [3D Models can be found under releases](https://github.com/Imaginous/Tesla_Tweaks/releases/tag/V1.1)
 - Optional glossy or matte clear varnish spray to give it a deeper black look after sanding.
 <p float="left">
@@ -103,13 +103,13 @@ Please note that this is a hobby project and the information is for hobbiests ou
 ## Building:
 You can bend the flipper part a bit upwards and slide in the *S3XY-Button* PCB into the slot. Note the notch which falls into the semi-circle cutout in the PCB.<br>
 Also make sure you have installed the *Commander* and have tested the *S3XY-buttons* in your car before proceeding.
-- 3D print the part. You can use the **brim** file to make the ASA adhere to the print bed better.<br>Also print the part upright, so a continous loop of filament will be created per layer. This is important for the flexability and durability of the print.
+- 3D print the part. You can use the **brim** file to make the ASA adhere to the print bed better.<br>Also print the part upright, so a continuous loop of filament will be created per layer. This is important for the flexibility and durability of the print.
 - Sand them to make them nice and smooth.
 - If you want the color to be darker after sanding you can spray a matt or shiny clear coat on top of it. 
 - Open up the *S3XY-button* and remove the cover.
 - Add a piece of double sided tape to the battery compartment.
 - Place the *S3XY-button* in the paddle by lifting it a bit, note the notch in the print and PCB.
-- Add double sided tape to the bottom of the paddle to stick it to the steering wheel, the extentions of the paddle are designed to point down.
+- Add double sided tape to the bottom of the paddle to stick it to the steering wheel, the extensions of the paddle are designed to point down.
 <p float="left">
 <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/4a4699cf-10db-4425-a159-e2d3a56c0640.jpg" alt="S3XY-Button PCB inserted" width="500"/>
 <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/0e7b22dc-d9e3-4078-b50e-8d666e0bc5a7.jpg" alt="Double sided tape" width="500"/>
