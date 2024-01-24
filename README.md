@@ -31,7 +31,7 @@ Please note that this is a hobby project and the information is for hobbyists ou
 - 2x Small push button switches - [Link](https://nl.aliexpress.com/item/1005002571813750.html)
 - 8x Small round magnets (4x2mm) to hold the top cover - [Link](https://nl.aliexpress.com/item/1005005282318653.html)
 - Some pieces of wire to solder the buttons to the S3XY-button PCB
-- 2mm bolt and nut
+- I replaced the bold and nut with a 2mm axle 17mm long, the bold is a bit too thin ~~(2mm bolt and nut)~~
 - Springs from a pen
 - Sanding paper to smoothen the 3D print
 - A 3D printer, I use a Prusa MK2
@@ -49,7 +49,7 @@ Please use your own imagination when building this. I forgot to take pictures du
 Also make sure you have installed the *Commander* and have tested the *S3XY-buttons* in your car before proceeding. Soldering on your *S3XY-buttons* will void their warranty.
 - 3D print the parts: base, stalk and cover.
 - Sand them to make them nice and smooth.
-- If you want the color to be darker after sanding you can spray a matt or shiny clear coat on top of it. I didn't do that.
+- If you want the color to be darker after sanding you can spray a matt or shiny clear coat on top of it. ~~I didn't do that~~.
 - Insert the 3 ball bearings in the stalk.
 - Glue 4 magnets in the holes on top of the base. Make sure the polarity of the magnets is all the same.
 - Glue 4 magnets in the holes on the inside of the cover. Make sure the polarity of the magnets is oriented that it will attract the magnets on the base.
@@ -66,7 +66,13 @@ Also make sure you have installed the *Commander* and have tested the *S3XY-butt
 - If it works well place the cover on. You might have to sand of some corners to get the cover on. You have to twist it a bit. Design needs to be improved... but hey it's working ;)
 - Add the stickers which come with the *S3XY-buttons*.
 - Add double sided tape to the bottom and stick it to the steering column of your Tesla Model 3 Highland.
-  
+<p float="left">
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/62b825ad-b645-44b5-9098-9478ecb5e33f.jpg" alt="Spray painted" width="500"/>
+</p>
+<p float="left">
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/7dad8c70-69f1-462a-9310-e54979e6468e.jpg" alt="S3XY-Button PCBs inserted" width="500"/>
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/9e6a0d1d-2253-45d8-9780-4c8c55dcae69.jpg" alt="S3XY-Button PCBs inserted" width="500"/>
+</p>
 As I said before, it's a hobby project and needs some tweaking on your side, but it works and was fun to create.
 
 
