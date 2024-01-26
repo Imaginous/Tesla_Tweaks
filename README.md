@@ -67,7 +67,7 @@ Also make sure you have installed the *Commander* and have tested the *S3XY-butt
 - Add the stickers which come with the *S3XY-buttons*.
 - Add double sided tape to the bottom and stick it to the steering column of your Tesla Model 3 Highland.
 <p float="left">
-<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/62b825ad-b645-44b5-9098-9478ecb5e33f.jpg" alt="Spray painted" width="500"/>
+<img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/62b825ad-b645-44b5-9098-9478ecb5e33f" alt="Spray painted" width="500"/>
 </p>
 <p float="left">
 <img src="https://github.com/Imaginous/Tesla_Tweaks/assets/68418842/7dad8c70-69f1-462a-9310-e54979e6468e.jpg" alt="S3XY-Button PCBs inserted" width="500"/>
