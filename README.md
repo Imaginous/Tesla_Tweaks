@@ -131,6 +131,12 @@ At first I added a cheap AliExpress heel pad... but I didn't like it that much.
 So I printed my own heel pads on my 3D printer in black TPU.
 I used 1.6mm bolts and nuts and printed little plates in ASA-CF to act as washers and hold the nuts.
 
-I placed the pieces on top of the matt and drilled little holes trough the carpet. Inserted the bolds and added the washer-nut combination on the underside.
-You can download the *.3mf* and *.stl* files from the release page.
+I placed the pieces on top of the matt and drilled little holes trough the carpet. Inserted the bolds and added the washer-nut combination on the underside.<br>
+[Here you can download the *.3mf* and *.stl* files.](https://github.com/user-attachments/files/18820943/floormatt.zip)
+
+<p float="left">
+<img src="https://github.com/user-attachments/assets/13980518-6561-4689-a1aa-db39311d4b6f" alt="Overview" width="500"/>
+<img src="https://github.com/user-attachments/assets/1e57d9cd-7645-4b64-aea1-bf401641bce5" alt="Heel Pad" width="500"/>
+<img src="https://github.com/user-attachments/assets/a4b23c46-7f1e-4e6f-84c1-84c1251de206" alt="Foot Piece" width="250"/>
+</p>
 
