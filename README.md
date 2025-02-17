@@ -123,3 +123,14 @@ Also make sure you have installed the *Commander* and have tested the *S3XY-butt
 
 **Note:** you can insert a paperclip into the small holes on top of the paddle to push the *CR2032* battery out when it needs replacing. So you don't have to remove the PCB.<br>
 As I said before, it's a hobby project and needs some tweaking on your side, but it works and was fun to create.
+
+# Tesla Model 3 Highland Foot and Heel Pads
+The default floormats are okay quality, but the driver side lacks any foot and heel pads. Therefore the mats will wearout very quickly.
+At first I added a cheap AliExpress heel pad... but I didn't like it that much.
+
+So I printed my own heel pads on my 3D printer in black TPU.
+I used 1.6mm bolts and nuts and printed little plates in ASA-CF to act as washers and hold the nuts.
+
+I placed the pieces on top of the matt and drilled little holes trough the carpet. Inserted the bolds and added the washer-nut combination on the underside.
+You can download the *.3mf* and *.stl* files from the release page.
+
